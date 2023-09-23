@@ -13,4 +13,4 @@
 <p>Type "systeminfo" in cmd to check if hyper v is enable</p>
 
 ### 4. Download extension to access ubuntu in vscode
-<p>Install the <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack">Remote Development</a> extension pack in vscode</p>
+<p>Install the <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack"  target="_blank">Remote Development</a> extension pack in vscode</p>

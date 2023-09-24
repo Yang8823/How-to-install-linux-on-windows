@@ -7,7 +7,7 @@
 <p>Type "wsl --install" to install wsl</p>
 
 ### 2. Install Ubuntu
-<p>go to microsoft store and install ubuntu</p>
+<p>Go to microsoft store and install ubuntu</p>
 
 ### 3. Enable Hyper V
 <p>Type "systeminfo" in cmd to check if hyper v is enable</p>

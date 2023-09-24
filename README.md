@@ -22,6 +22,7 @@
 ### 6. Download gcc on ubuntu
 <p>How u can use ubuntu in your vscode but when u try to run c/c ++ code it will not work</p>
 <p>You need to download gcc in ubuntu through the terminal in vscode for ubuntu or the terminal when u run ubuntu</p>
+<p>To install gcc just type "sudo apt install gcc" in cmd of the ubuntu</p>
 
 ### 7. Run C/C ++ code on ubuntu through vscode
 <p>Now you can basically code in ubuntu through vscode :)</p>

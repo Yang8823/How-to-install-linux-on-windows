@@ -14,3 +14,11 @@
 
 ### 4. Download extension to access ubuntu in vscode
 <p>Install the <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack" target="_blank" rel="noopener noreferrer">Remote Development</a> extension pack in vscode</p>
+
+### 5. Open Ubuntu
+<p>Open ubuntu set new user and password then log in</p>
+
+### 6. Download gcc on ubuntu
+
+### 7. Run C/C ++ code on ubuntu through vscode
+<p>Now you can basically code in ubuntu through vscode :)</p>

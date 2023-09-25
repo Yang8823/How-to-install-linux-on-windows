@@ -6,7 +6,7 @@
 <p>If wsl is not installed, installed it</p>
 <p>Type "wsl --install" to install wsl</p>
 
-### 2. Install Ubuntu
+### 2. Install a linux distribution
 <p>Go to microsoft store and install ubuntu</p>
 
 ### 3. Enable Hyper V
@@ -16,7 +16,7 @@
 <p>Install the <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack" target="_blank" rel="noopener noreferrer">Remote Development</a> extension pack in vscode</p>
 
 ### 5. Open Ubuntu
-<p>Open ubuntu set new user and password then log in</p>
+<p>Open ubuntu set up new user and password then log in</p>
 <p>**Note: when u type in password it wont show anything but your still typing in words so dont think the input is broken</p>
 
 ### 6. Download gcc on ubuntu

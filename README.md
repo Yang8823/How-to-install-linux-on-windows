@@ -17,7 +17,7 @@
 
 ### 5. Open Ubuntu
 <p>Open ubuntu set up new user and password then log in</p>
-<p>Type "login <username>" in ubuntu terminal or vscode ubuntu terminal to login</p>
+<p>Type "login yourusername" in ubuntu terminal or vscode ubuntu terminal to login</p>
 <p>**Note: when u type in password it wont show anything but your still typing in words so dont think the input is broken</p>
 
 ### 6. Download gcc on ubuntu

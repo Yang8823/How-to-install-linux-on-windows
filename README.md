@@ -4,7 +4,8 @@
 Cheak if wsl is installed:
 Type `wsl -l -v` in cmd
 <br>
-If wsl is not installed, install it by:>
+If wsl is not installed, install it by:
+<br>
 Type `wsl --install` to install wsl
 
 ### 2. Install a linux distribution

@@ -1,11 +1,11 @@
 ## How-to-install-linux-on-windows
 
 ### 1. Install Windows Subsystem for Linux (wsl)
-<p>Cheak if wsl is installed:</p>
+Cheak if wsl is installed:
 ```shell
 wsl -l -v
-<p>If wsl is not installed, install it by:</p>
-<p>Type `wsl --install` to install wsl</p>
+If wsl is not installed, install it by:>
+Type `wsl --install` to install wsl
 
 ### 2. Install a linux distribution
 <p>Go to microsoft store and install ubuntu</p>

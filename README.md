@@ -2,17 +2,17 @@
 
 ### 1. Install Windows Subsystem for Linux (wsl)
 <p>Cheak if wsl is installed:</p>
-<p>Type "wsl -l -v" in cmd</p>
+<p>Type `wsl -l -v` in cmd</p>
 <p>If wsl is not installed, install it by:</p>
-<p>Type "wsl --install" to install wsl</p>
+<p>Type `wsl --install` to install wsl</p>
 
 ### 2. Install a linux distribution
 <p>Go to microsoft store and install ubuntu</p>
-<p>**Sometimes when you type "wsl --install" in cmd windows will download the default
+<p>**Sometimes when you type `wsl --install` in cmd windows will download the default
 linux distribution which is ubuntu for you.</p>
 
 ### 3. Enable Hyper V
-<p>Type "systeminfo" in cmd to check if hyper v is enable</p>
+<p>Type `systeminfo` in cmd to check if hyper v is enable</p>
 <p>If hyper v is enable is will show: <br>
 "Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed."</p>
 
@@ -21,14 +21,14 @@ linux distribution which is ubuntu for you.</p>
 
 ### 5. Open Ubuntu
 <p>Open ubuntu and set up new user and password</p>
-<p>Type "login yourusername" in ubuntu terminal or vscode ubuntu terminal to login</p>
+<p>Type `login yourusername` in ubuntu terminal or vscode ubuntu terminal to login</p>
 <p>**Note: when u type in password it wont show anything but your still typing in words so dont think the input is broken</p>
 
 ### 6. Download gcc on ubuntu
 <p>Now you can use ubuntu in your vscode but when u try to run c/c ++ code it will not work</p>
 <p>You need to download gcc in ubuntu through the terminal in vscode for ubuntu or the terminal when u run ubuntu</p>
-<p>To install gcc just type "sudo apt install gcc" in cmd of the ubuntu</p>
-<p>** its best to check for any update with "sudo apt update" before installing gcc</p>
+<p>To install gcc just type `sudo apt install gcc` in cmd of the ubuntu</p>
+<p>** its best to check for any update with `sudo apt update` before installing gcc</p>
 
 ### 7. Run C/C ++ code on ubuntu through vscode
 <p>Now you can basically code in ubuntu through vscode :)</p>

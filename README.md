@@ -2,7 +2,8 @@
 
 ### 1. Install Windows Subsystem for Linux (wsl)
 <p>Cheak if wsl is installed:</p>
-Type `wsl -l -v` in cmd
+```shell
+wsl -l -v
 <p>If wsl is not installed, install it by:</p>
 <p>Type `wsl --install` to install wsl</p>
 

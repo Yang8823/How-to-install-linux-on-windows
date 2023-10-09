@@ -11,11 +11,12 @@ Type `wsl --install` to install wsl
 
 ### 2. Install a linux distribution
 <p>Go to microsoft store and install ubuntu</p>
-<p>**Sometimes when you type `wsl --install` in cmd windows will download the default
-linux distribution which is ubuntu for you.</p>
+**Sometimes when you type `wsl --install` in cmd windows will download the default
+<br>
+linux distribution which is ubuntu for you.
 
 ### 3. Enable Hyper V
-<p>Type `systeminfo` in cmd to check if hyper v is enable</p>
+Type `systeminfo` in cmd to check if hyper v is enable
 <p>If hyper v is enable is will show: <br>
 "Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed."</p>
 
@@ -24,14 +25,16 @@ linux distribution which is ubuntu for you.</p>
 
 ### 5. Open Ubuntu
 <p>Open ubuntu and set up new user and password</p>
-<p>Type `login yourusername` in ubuntu terminal or vscode ubuntu terminal to login</p>
+Type `login yourusername` in ubuntu terminal or vscode ubuntu terminal to login
+<br>
 <p>**Note: when u type in password it wont show anything but your still typing in words so dont think the input is broken</p>
 
 ### 6. Download gcc on ubuntu
 <p>Now you can use ubuntu in your vscode but when u try to run c/c ++ code it will not work</p>
 <p>You need to download gcc in ubuntu through the terminal in vscode for ubuntu or the terminal when u run ubuntu</p>
-<p>To install gcc just type `sudo apt install gcc` in cmd of the ubuntu</p>
-<p>** its best to check for any update with `sudo apt update` before installing gcc</p>
+To install gcc just type `sudo apt install gcc` in cmd of the ubuntu
+<br>
+** its best to check for any update with `sudo apt update` before installing gcc
 
 ### 7. Run C/C ++ code on ubuntu through vscode
 <p>Now you can basically code in ubuntu through vscode :)</p>

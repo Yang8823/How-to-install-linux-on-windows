@@ -30,8 +30,10 @@ Type `login yourusername` in ubuntu terminal or vscode ubuntu terminal to login
 <p>**Note: when u type in password it wont show anything but your still typing in words so dont think the input is broken</p>
 
 ### 6. Download gcc on ubuntu
-<p>Now you can use ubuntu in your vscode but when u try to run c/c ++ code it will not work</p>
-<p>You need to download gcc in ubuntu through the terminal in vscode for ubuntu or the terminal when u run ubuntu</p>
+Now you can use ubuntu in your vscode but when u try to run c/c ++ code it will not work
+<br>
+You need to download gcc in ubuntu through the terminal in vscode for ubuntu or the terminal when u run ubuntu
+<br>
 To install gcc just type `sudo apt install gcc` in cmd of the ubuntu
 <br>
 ** its best to check for any update with `sudo apt update` before installing gcc

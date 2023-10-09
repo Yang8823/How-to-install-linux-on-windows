@@ -10,7 +10,8 @@ If wsl is not installed, install it by:
 Type `wsl --install` to install wsl
 
 ### 2. Install a linux distribution
-<p>Go to microsoft store and install ubuntu</p>
+Go to microsoft store and install ubuntu
+<br>
 **Sometimes when you type `wsl --install` in cmd windows will download the default
 <br>
 linux distribution which is ubuntu for you.

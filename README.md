@@ -25,7 +25,7 @@ Type `systeminfo` in cmd to check if hyper v is enable
 <p>Install the <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack" target="_blank" rel="noopener noreferrer">Remote Development</a> extension pack in vscode</p>
 
 ### 5. Open Ubuntu
-<p>Open ubuntu and set up new user and password</p>
+Open ubuntu and set up new user and password
 Type `login yourusername` in ubuntu terminal or vscode ubuntu terminal to login
 <br>
 <p>**Note: when u type in password it wont show anything but your still typing in words so dont think the input is broken</p>

@@ -42,5 +42,5 @@ To install gcc just type `sudo apt install gcc` in cmd of the ubuntu
 ### 7. Run C/C ++ code on ubuntu through vscode
 <p>Now you can basically code in ubuntu through vscode :)</p>
 
-#### Additional commands
+### Additional commands
 Type `wsl --shutdown` to forcibly stop the distribution

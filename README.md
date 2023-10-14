@@ -12,9 +12,7 @@ Type `wsl --install` to install wsl
 ### 2. Install a linux distribution
 Go to microsoft store and install ubuntu
 <br>
-**Sometimes when you type `wsl --install` in cmd windows will download the default
-<br>
-linux distribution which is ubuntu for you.
+**Sometimes when you type `wsl --install` in cmd, windows will download the default linux distribution which is ubuntu for you.
 
 ### 3. Enable Hyper V
 Type `systeminfo` in cmd to check if hyper v is enable

@@ -19,6 +19,9 @@ Type `systeminfo` in cmd to check if hyper v is enable
 <p>If hyper v is enable is will show: <br>
 "Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed."</p>
 
+If hyper v is not enable, you can enable it according to this tutorial: <br>
+https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v
+
 ### 4. Download extension to access ubuntu in vscode
 <p>Install the <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack" target="_blank" rel="noopener noreferrer">Remote Development</a> extension pack in vscode</p>
 
